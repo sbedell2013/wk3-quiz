@@ -1,5 +1,7 @@
-/* Your Website Styles */
-
+/* Your Website Styles */	
+body{
+	background: url("../img/bg.png");
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
